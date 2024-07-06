@@ -2,7 +2,7 @@ clear all
 close all
 % Getting CFC stats and violin plots
 
-% Why is gamma not working??
+
 
 %%  Load motion and mean fluorescence trace
 %cd('/home/hanlabadmins/eng_handata/eng_research_handata2/Sudi_Sridhar/612535/07082020/612535_10Hz_AudioVisual/motion_corrected')
